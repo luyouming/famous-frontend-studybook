@@ -25,4 +25,7 @@
     
   - 2021.12.1 华为机试 题库
     - 华为机试  [🔗 地址](https://www.nowcoder.com/ta/huawei) 
+
+  - 2022.1.7 vue3 从入门到精通
+    - vue3 入门到精通 [🔗 地址](https://learn.kaikeba.com/catalog/212381?type=9)
   
