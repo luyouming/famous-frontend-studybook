@@ -28,4 +28,7 @@
 
   - 2022.1.7 vue3 从入门到精通
     - vue3 入门到精通 [🔗 地址](https://learn.kaikeba.com/catalog/212381?type=9)
+
+  - 2022.1.13 vue3、vite、typescript 深入
+    - vue3、vite、typescript [🔗 地址](https://jspang.com/detailed?id=67) 
   
