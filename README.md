@@ -31,4 +31,7 @@
 
   - 2022.1.13 vue3、vite、typescript 深入
     - vue3、vite、typescript [🔗 地址](https://jspang.com/detailed?id=67) 
+   
+  - 2022.1.26 vue3、vite2、vant3、rem 
+    - 技术栈整合，新一代移动app demo [🔗 地址](https://github.com/luyouming/Vue3-app)
   
