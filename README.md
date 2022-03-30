@@ -34,4 +34,8 @@
    
   - 2022.1.26 vue3、vite2、vant3、rem、eslint、prettier 
     - 技术栈整合，新一代移动app demo [🔗 地址](https://github.com/luyouming/Vue3-app)
+    
+  - 2022.3.30 爪哇课程  
+    - promise 第一节 [🔗 地址](http://live.vhall.com/913092898) 密码 zhaowa001
+  
   
